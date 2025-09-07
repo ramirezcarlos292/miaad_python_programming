@@ -1,0 +1,6 @@
+ID,Edad,Salario,Fecha_Contratación,Activo,Categoría
+001,25,50000,2023-05-01,True,A
+002,30,55000,15-06-2022,False,B
+'003',35,60000,07/08/2021,True,A
+004,cuarenta,65000,2020/03/25,Yes,C
+005,45,70000,2019-01-30,No,B
